@@ -1,1 +1,0 @@
-{"rustc":13957644981980821153,"features":"","target":0,"profile":0,"path":0,"deps":[[8427705233296525817,"build_script_build",false,6897299138862926207]],"local":[{"RerunIfChanged":{"output":"x86_64-bootloader/release/build/compiler_builtins-1f982f97c9092f92/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
